@@ -4,5 +4,5 @@ I'm a software engineer based in Vancouver, and I work at Apple on [Shortcuts](h
 
 - 🕸 My homepage is [gottardo.me](https://gottardo.me).
 - 📫 Wanna get in touch? You can [email me](mailto:andrea@gottardo.me).
-- 📒 Most of the repos on this GitHub account are personal/school projects I worked on while I was studying at the University of British Columbia.
+- 📒 Most of the repos on this GitHub are personal/school projects I worked on while I was studying at the University of British Columbia.
 - 😄 Pronouns: he/him
